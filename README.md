@@ -1,6 +1,6 @@
 # Welcome to my domain!🏰🐉
 
-To defeat the **Dark Lord of Procrastination**, the **Great Wizard** has bestowed upon me the ultimate superpower—**coding**! With the ability to create something from nothing, I embark on an epic quest to vanquish distractions, build legendary projects, and gather brave companions along the way. Together, we shall banish the Dark Lord once and for all! 💻✨🧙‍♂️🪄
+To defeat the **Dark Lord of Procrastination**, the **Great Wizard** recognized my unwavering willpower to **self-taught** and pull the legendary Code Sword. As a result, he has bestowed upon me the ultimate superpower—**coding**! With the ability to create something from nothing, I embark on an epic quest to vanquish distractions, build legendary projects, and gather brave companions along the way. Together, we shall banish the Dark Lord once and for all! 💻✨🧙‍♂️🪄
 
 
 ## Mission
