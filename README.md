@@ -7,15 +7,13 @@ The never-ending **army of new JavaScript frameworks** continues to wreak havoc 
 
 To vanquish this chaos once and for all, the **Dark Lord of Procrastination** must be banished. But facing this menace alone is a fool’s errand.
 
-Along the journey, powerful allies—**AWS, Next.js, OpenAI, Anthropic, Vervel. MongoDB, TypeScript, and React.js**—join the battle, each wielding their own unique abilities. Together, we march toward the ultimate showdown, determined to restore balance to the coding realm, the freedom to create! 🧙‍♂️⚔️😈
+Along the journey, powerful allies—**OpenAI, Anthropic and AWS**—join the battle, each wielding their own unique abilities. Together, we march toward the ultimate showdown, determined to restore balance to the coding realm, the freedom to create! 🧙‍♂️⚔️😈
 
 ## Sacred Weapon
 - Typescript
 - Next.js
 - React.js
 - MongoDB
-- Vercel
-- AWS
 - Tailwind CSS
 - Shadcn UI
 - Linux
